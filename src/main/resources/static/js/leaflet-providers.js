@@ -570,7 +570,7 @@
                 attribution:
                 'Imagery provided by services from the Global Imagery Browse Services (GIBS), operated by the NASA/GSFC/Earth Science Data and Information System ' +
                 '(<a href="https://earthdata.nasa.gov">ESDIS</a>) with funding provided by NASA/HQ.',
-                bounds: [[-85.0511287776, -179.999999975], [85.0511287776, 179.999999975]],
+                bounds: [[-65.0511287776, -149.999999975], [65.0511287776, 149.999999975]],
                 minZoom: 1,
                 maxZoom: 9,
                 format: 'jpg',
